@@ -1,0 +1,21 @@
+{
+  "name": "countly-notifications",
+  "title": "Notifications",
+  "version": "0.1.0",
+  "description": "Notifications",
+  "author": "Joseph Anthony",
+  "homepage": "",
+  "repository" :{
+    "type" : "git",
+    "url" : "https://github.com/anthonyj7458/countly-server.git"
+  },
+  "bugs":{
+    "url" : "https://github.com/anthonyj7458/countly-server.git"
+  },
+  "keywords": [
+    "countly"
+  ],
+  "dependencies": {
+  },
+  "private": true
+}
